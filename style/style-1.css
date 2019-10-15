@@ -1,0 +1,58 @@
+.container{
+	margin: 0 auto 0 auto;
+	width: 1000px;
+	background-color: #e3e3e3;
+}
+
+.header {
+	background-color: green;
+}
+
+.logo {
+	width: 200px;
+	background-color: #e4e1e3;
+	float: left;
+}
+
+.menu {
+	width: 800px;
+	background-color: #ae21e3;
+	float: left;
+}
+
+.banner {
+	background-color: yellow;
+}
+
+.ban-info p {
+	text-align: center;
+	height: 220px;
+}
+
+.content {
+	background-color: red;
+}
+
+.aside {
+	width: 300px;
+	background-color: #00FF00;
+	float: left;
+}
+
+.infomation {
+	width: 700px;
+	background-color: #00FFF0;
+	float: left;
+}
+
+.footer {
+	background-color: blue;
+}
+
+.foot-info {
+	background-color: #FFFF00;
+}
+
+.clearfix {
+	clear:both;
+}

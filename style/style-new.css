@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	background-color: #e3e3e3;
+}
+.container {
+	background-color: #e3e3e3;
+	width: 1000px;
+	margin: 0 auto 0 auto;
+}
+
+.header {
+	background-color: yellow;
+}
+
+.logo {
+	width: 200px;
+}
+
+.logo img {
+	width: 200px;
+	float: left;
+}
+
+.content {
+	width: 800px;
+	float: right;
+}
+
+.area {
+	background-color: green;
+}
+
+.message p {
+	margin: 0;
+}
+
+.message {
+	padding: 10px 30px;
+}
+
+.clearfix {
+	clear:both;
+}
+
+.box {
+	margin: 10px;
+	width: 240px;
+	background-color: red;
+	float: left;
+}
